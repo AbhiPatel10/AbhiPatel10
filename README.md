@@ -46,7 +46,7 @@
   <img alt="python" src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=EFD81D"/>
  
 </div>
-<h3 style="margin-top:15px; margin-bottom:25px">Database :</h3>
+<h3 style="margin-top:15px;>Database :</h3>
 
 <div align="left" >
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=0FA54D"/>
@@ -55,7 +55,7 @@
 
  
 </div>
-
+<br>
 <table style="margin-top:30px">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AbhiPatel10&show_icons=true&theme=dark&locale=en" alt="" /></td>
