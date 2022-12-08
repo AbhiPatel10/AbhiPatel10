@@ -11,7 +11,7 @@
 </div>
 <h1 align="center" style="margin-top:20px">Hi 👋, I'm Abhi Patel</h1>
 
-<h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer</h2>
+<p align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer</p>
 
 
 <h1>About me :</h1>
@@ -46,9 +46,9 @@
   <img alt="python" src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=EFD81D"/>
  
 </div>
-<h3 style="margin-top:15px;>Database :</h3>
+<h3 style="margin-top:15px;">Database :</h3>
 
-<div align="left" >
+<div align="left" > 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=0FA54D"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=DD8A00"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=107AC9"/>
@@ -68,3 +68,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiPatel10&theme=dark" alt="jigar-sable" /></p>
  </div>
  <br>
+
+<p style='display:none'>Updated on : 06/12/2022 - 6.24</p>
