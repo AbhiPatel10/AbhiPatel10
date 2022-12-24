@@ -83,5 +83,3 @@
 9. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker)
 10. 🥳 Closed PR [#27](https://github.com/shelcia/mocker/pull/27) in [shelcia/mocker](https://github.com/shelcia/mocker)
 <!--END_SECTION:activity-->
-
-<p style='display:none>Updated on : 21/12/2022 - 10.14 PM</p>
