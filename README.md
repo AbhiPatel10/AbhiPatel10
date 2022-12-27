@@ -72,7 +72,7 @@
 
 # Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 💪 Opened PR on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+1. 🥳 Closed PR on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
 2. 🗣 Commented on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
 3. 🥳 Closed PR [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
