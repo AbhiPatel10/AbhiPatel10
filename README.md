@@ -72,14 +72,16 @@
 
 # Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🥳 Closed PR on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-2. 🗣 Commented on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-3. 🥳 Closed PR [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
-5. 🥳 Closed PR [#559](https://github.com/IAmTamal/Milan/pull/559) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
-6. 🥳 Closed PR [#51](https://github.com/shelcia/mocker/pull/51) in [shelcia/mocker](https://github.com/shelcia/mocker)
-7. 🥳 Closed PR [#46](https://github.com/shelcia/mocker/pull/46) in [shelcia/mocker](https://github.com/shelcia/mocker)
-8. 🥳 Closed PR [#40](https://github.com/shelcia/mocker/pull/40) in [shelcia/mocker](https://github.com/shelcia/mocker)
-9. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker)
-10. 🥳 Closed PR [#27](https://github.com/shelcia/mocker/pull/27) in [shelcia/mocker](https://github.com/shelcia/mocker)
+
+1. 🥳 Open PR on [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+2. 🥳 Closed PR on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+3. 🗣 Commented on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+4. 🥳 Closed PR [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
+6. 🥳 Closed PR [#559](https://github.com/IAmTamal/Milan/pull/559) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+7. 🥳 Closed PR [#51](https://github.com/shelcia/mocker/pull/51) in [shelcia/mocker](https://github.com/shelcia/mocker)
+8. 🥳 Closed PR [#46](https://github.com/shelcia/mocker/pull/46) in [shelcia/mocker](https://github.com/shelcia/mocker)
+9. 🥳 Closed PR [#40](https://github.com/shelcia/mocker/pull/40) in [shelcia/mocker](https://github.com/shelcia/mocker)
+10. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker)
+
 <!--END_SECTION:activity-->
