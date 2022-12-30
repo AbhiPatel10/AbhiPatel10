@@ -73,7 +73,7 @@
 # Recent Activity ⚡
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented On [#848](https://github.com/reactplay/react-play/pull/848) in [reactplay/reactplay](https://github.com/reactplay/react-play)
+1. 💪 Open PR [#848](https://github.com/reactplay/react-play/pull/848) in [reactplay/reactplay](https://github.com/reactplay/react-play)
 2. 💪 Open PR [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 3. 🗣 Commented On [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 4. 🥳 Closed PR [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
