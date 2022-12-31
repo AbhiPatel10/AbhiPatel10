@@ -12,7 +12,7 @@
 </div>
 <h1 align="center" style="margin-top:20px">Hi 👋, I'm Abhi Patel</h1>
 
-<p align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer</p>
+<h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer</h2>
 
 
 <h1>About me :</h1>
