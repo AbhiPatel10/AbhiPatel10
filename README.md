@@ -27,7 +27,7 @@
 
 <h1 style="margin-top:40px"> 🛠️ Languages and Tools : </h1>
 
-<h3 style="margin:15px 0px">Frontend Languages :</h3>
+<h3 style="margin:15px 0px">Frontend Languages : </h3>
 
 <div align="left" style="margin-bottom:25px">
   <img alt="html" src="https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=red"/>
