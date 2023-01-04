@@ -74,7 +74,7 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented On [#292](https://github.com/WeMakeDevs/wemakedevs/pull/292) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-2. 💪 Open PR [#848](https://github.com/reactplay/react-play/pull/848) in [reactplay/reactplay](https://github.com/reactplay/react-play)
+2. 🥳 Closed PR [#848](https://github.com/reactplay/react-play/pull/848) in [reactplay/reactplay](https://github.com/reactplay/react-play)
 3. 🥳 Closed PR [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 4. 🗣 Commented On [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 5. 🥳 Closed PR [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
@@ -85,6 +85,6 @@
 10. 🥳 Closed PR [#51](https://github.com/shelcia/mocker/pull/51) in [shelcia/mocker](https://github.com/shelcia/mocker)
 11. 🥳 Closed PR [#46](https://github.com/shelcia/mocker/pull/46) in [shelcia/mocker](https://github.com/shelcia/mocker)
 12. 🥳 Closed PR [#40](https://github.com/shelcia/mocker/pull/40) in [shelcia/mocker](https://github.com/shelcia/mocker)
-13. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker)
+13. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker) 
 
 <!--END_SECTION:activity-->
