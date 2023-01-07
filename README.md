@@ -86,6 +86,6 @@
 11. 🥳 Closed PR [#51](https://github.com/shelcia/mocker/pull/51) in [shelcia/mocker](https://github.com/shelcia/mocker)
 12. 🥳 Closed PR [#46](https://github.com/shelcia/mocker/pull/46) in [shelcia/mocker](https://github.com/shelcia/mocker)
 13. 🥳 Closed PR [#40](https://github.com/shelcia/mocker/pull/40) in [shelcia/mocker](https://github.com/shelcia/mocker)
-14. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker)
+14. 🥳 Closed PR [#31](https://github.com/shelcia/mocker/pull/31) in [shelcia/mocker](https://github.com/shelcia/mocker) 
 
 <!--END_SECTION:activity-->
