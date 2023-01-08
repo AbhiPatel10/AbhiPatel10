@@ -82,7 +82,7 @@
 7. 🗣 Commented on [#563](https://github.com/IAmTamal/Milan/pull/563) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
 8. 🥳 Closed PR [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
 9. 🗣 Commented on [#841](https://github.com/reactplay/react-play/pull/841) in [reactplay/reactplay](https://github.com/reactplay/react-play)
-10. 🥳 Closed PR [#559](https://github.com/IAmTamal/Milan/pull/559) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan)
+10. 🥳 Closed PR [#559](https://github.com/IAmTamal/Milan/pull/559) in [IAmTamal/Milan](https://github.com/IAmTamal/Milan) 
 11. 🥳 Closed PR [#51](https://github.com/shelcia/mocker/pull/51) in [shelcia/mocker](https://github.com/shelcia/mocker)
 12. 🥳 Closed PR [#46](https://github.com/shelcia/mocker/pull/46) in [shelcia/mocker](https://github.com/shelcia/mocker)
 13. 🥳 Closed PR [#40](https://github.com/shelcia/mocker/pull/40) in [shelcia/mocker](https://github.com/shelcia/mocker)
