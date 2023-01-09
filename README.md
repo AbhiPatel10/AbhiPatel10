@@ -74,7 +74,7 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented On [#292](https://github.com/WeMakeDevs/wemakedevs/pull/292) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
-2. 💪 Open PR [#293](https://github.com/WeMakeDevs/wemakedevs/pull/293) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
+2. 🥳 Closed PR [#293](https://github.com/WeMakeDevs/wemakedevs/pull/293) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 3. 🥳 Closed PR [#848](https://github.com/reactplay/react-play/pull/848) in [reactplay/reactplay](https://github.com/reactplay/react-play)
 4. 🥳 Closed PR [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 5. 🗣 Commented On [#274](https://github.com/WeMakeDevs/wemakedevs/pull/274) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
