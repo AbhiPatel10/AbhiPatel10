@@ -58,7 +58,7 @@
 </div>
 <br/>
 <br/>
-<table style="margin-top:30px">
+<table style="margin-top:30px"> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AbhiPatel10&show_icons=true&theme=dark&locale=en" alt="" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhiPatel10&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></td>
