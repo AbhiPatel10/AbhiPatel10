@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="100"/>
 </div>
 <br />
