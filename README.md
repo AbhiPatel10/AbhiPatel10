@@ -66,7 +66,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiPatel10&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiPatel10&theme=dark" alt="" /></p>
  </div>
  <br>
 
