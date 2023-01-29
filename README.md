@@ -71,7 +71,7 @@
  <br>
 
 # Recent Activity ⚡
-<!--START_SECTION:activity-->
+<!--START_SECTION: activity-->
  
 1. 🗣 Commented On [#292](https://github.com/WeMakeDevs/wemakedevs/pull/292) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
 2. 🥳 Closed PR [#293](https://github.com/WeMakeDevs/wemakedevs/pull/293) in [WeMakeDevs/wemakedevs](https://github.com/WeMakeDevs/wemakedevs)
